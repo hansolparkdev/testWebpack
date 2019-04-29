@@ -1,0 +1,27 @@
+{
+  "name": "testWebpack",
+  "version": "1.0.0",
+  "description": "webpack test!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansolparkdev/testWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansolparkdev/testWebpack/issues"
+  },
+  "homepage": "https://github.com/hansolparkdev/testWebpack#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
